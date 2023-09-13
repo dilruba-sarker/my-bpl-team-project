@@ -1,0 +1,18 @@
+/* body{
+    font-family: 'Montserrat', sans-serif;
+    background:url('https://i.ibb.co/JB1y0X5/4690.jpg') ,
+    linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+} */
+ body{font-family:'Montserrat', sans-serif;
+       background:url('https://i.ibb.co/hB3K0Hh/download-2.jpg'),
+       linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.5));
+       background-blend-mode: overlay;
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-attachment: fixed; 
+
+}
